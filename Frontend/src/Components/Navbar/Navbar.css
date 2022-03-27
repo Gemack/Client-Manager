@@ -1,0 +1,65 @@
+nav {
+  background: lime;
+  width: 100%;
+}
+
+.NavContainer {
+  color: white;
+  padding: 1rem 0;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.NavContainer h1 {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.homeLink {
+  color: white;
+  text-decoration: none;
+  transition: all 3.1s;
+}
+
+.NavContainer h1 span {
+  font-size: 2rem;
+  color: #444;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.NavContainer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.NavContainer ul li {
+  list-style: none;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.navLink {
+  text-decoration: none;
+  color: white;
+  transition: all 1.4s;
+}
+.navLink:hover {
+  color: blue;
+}
+
+.navLink-button {
+  border: none;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  transition: all 1.4s;
+}
+
+.navLink-button:hover {
+  color: blue;
+}

@@ -1,0 +1,32 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: whitesmoke;
+}
+.login-container {
+  width: 40%;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.login-container h1 {
+  text-transform: uppercase;
+  color: blue;
+  margin-bottom: 2rem;
+}
+
+.inputField {
+  width: 80%;
+  margin: auto;
+  padding: 2rem;
+}
+
+.text {
+  width: 100%;
+}
+
+form {
+  padding: 4rem 0;
+}

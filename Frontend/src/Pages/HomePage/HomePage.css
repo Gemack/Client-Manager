@@ -1,0 +1,14 @@
+.Home-Container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  gap: 10px;
+}
+
+.amountOwed {
+  font-size: 2rem;
+  color: #444;
+  margin-bottom: 1rem;
+}

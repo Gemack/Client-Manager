@@ -1,0 +1,39 @@
+.About {
+  background: #555;
+  padding: 4rem;
+  height: 100vh;
+}
+
+.aboutContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+.aboutCard {
+  width: 30%;
+}
+.aboutTitle {
+  text-transform: uppercase;
+  font-size: 4rem !important;
+}
+
+.backLink {
+  background: blue;
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: white;
+  padding: 0.5rem 0rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  transition: all 1.3s;
+  width: 10%;
+}
+
+.backLink:hover {
+  color: blue;
+  background: white;
+}

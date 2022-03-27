@@ -1,0 +1,20 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.toasty-success {
+  background: lime;
+  color: white;
+}
+
+.toasty-fail {
+  background: red;
+  color: white;
+}
+
+.toasty-delete {
+  color: red;
+  background: yellow;
+}

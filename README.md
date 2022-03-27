@@ -1,0 +1,2 @@
+A CMS created with JavaScript (for Frontend using the React Framework) and PHP  (for Backend using the Laravel framework), This App allow user to Manager their Client Debt.
+Login Password is 123 Username is Admin
